@@ -1,16 +1,19 @@
-### Hi there 👋
+### 😎 Three Things About Me
+* Welcome! I'm Johan, an iOS engineer with several years of experience.
+* I love all things Swift, UIKit, and SwiftUI. Prefer the reactive way of Combine but can do imperative code too.
+* Have a passion for teaching, so I'm building an online code school on the side.
 
-<!--
-**bigimot22/bigimot22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Three Stuff I'm Learning
+* Currently learning Go and other backend technologies on the side.
+* I speak Spanish, English, Russian, and some Portuguese. Currently learning basic Turkish.
+* Very painfully practicing how to go downstairs on inline skates.
 
-Here are some ideas to get you started:
+### 🤯 Three Fun Facts
+* I was a circus acrobat till my twenties.
+* I used to run a language school in Russia.
+* I'm from beautiful Venezuela but have never permanently lived there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Three Ways To Reach Me
+* Connect with me on [Linkedin](https://www.linkedin.com/in/johandre/)
+* Hear me out on [Twitter](https://twitter.com/iosdelgado)
+* Visit my website at [iosdelgado.com](www.iosdelgado.com)

@@ -1,6 +1,6 @@
 ### 😎 Three Things About Me
 * Welcome! I'm Johan, an iOS engineer with several years of experience.
-* I love all things Swift, UIKit, and SwiftUI. Prefer the reactive way of Combine but can do imperative code too.
+* I love all things Swift, UIKit, and SwiftUI. Also know all Xcode shortcuts.
 * Have a passion for teaching, so I'm building an online code school.
 
 ### 🎓 Three Stuff I'm Learning

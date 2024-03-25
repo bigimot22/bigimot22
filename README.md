@@ -10,8 +10,8 @@
 
 ### 🤯 Three Fun Facts
 * I was a circus acrobat till my twenties.
-* I used to run a language school in Russia.
-* I'm from beautiful Venezuela but have never permanently lived there.
+* I used to run a language school in Russia before becoming an iOS developer.
+* I'm from beautiful Venezuela but have lived in more than 20 countries.
 
 ### 🌐 Three Ways To Reach Me
 * Connect with me on [Linkedin](https://www.linkedin.com/in/johandre/)

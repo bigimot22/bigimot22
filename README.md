@@ -1,7 +1,7 @@
 ### 😎 Three Things About Me
 * Welcome! I'm Johan, an iOS engineer with several years of experience.
 * I love all things Swift, UIKit, and SwiftUI. Also know tones of shortcuts in Xcode.
-* Have a passion for teaching, so I'm building an online code school.
+* Have a passion for teaching, so I'm building an online programming school.
 
 ### 🎓 Three Stuff I'm Learning
 * Currently learning Go and other backend technologies on the side.
